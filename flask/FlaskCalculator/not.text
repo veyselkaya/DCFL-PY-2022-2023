@@ -1,0 +1,7 @@
+1. klasörü vs code ile aç
+2. view>command palette> create env.
+3. terminalden pip flask install yaz
+4. app.py dosyasını oluştur
+5. fasit falsk projesini yaz
+6. templates klasörü oluştur. ve içine index.html sayfasını ekle
+7. terminale flask run yaz ve entere bas....
